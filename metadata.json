@@ -1,0 +1,8 @@
+{
+  "name": "Remix منظومة الرواتب",
+  "description": "تطبيق احترافي لحساب ومعرفة وتعديل رواتب الموظفين مع المخصصات والنسب والحالة الاجتماعية والأطفال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
